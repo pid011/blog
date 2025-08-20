@@ -37,7 +37,7 @@ GitHub에서 ssh 키를 새로 등록한 후, GitHub에 등록한 키의 공개�
 
 
 
-![Fork SSH Key config](../assets/blobs/250226-fork-sshkey.png)
+![Fork SSH Key config](/assets/blobs/250226-fork-sshkey.png)
 
 ### git GUI 에서 ssh 키 설정 후 여전히 연결되지 않는다면
 
