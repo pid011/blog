@@ -24,7 +24,7 @@ JetBrains Rider의 내장 Git 툴로 push나 clone을 진행하려 하면 대상
 
 여기서 재미있는 점은 Fork 같은 일부 애플리케이션들은 GitHub와 연동할 때 사용자에게 Organization 권한을 요청하고 승인받는 과정이 포함되어 있다는 것이다. 내가 기존에 사용하던 Fork도 이런 과정을 통해 Organization에 등록되어 정상적으로 작동했던 것으로 보인다.
 
-![GitHub Organization Third-party application access policy 설정 화면](../assets/blobs/250911-githubscreenshot.png)
+![GitHub Organization Third-party application access policy 설정 화면](/assets/blobs/250911-githubscreenshot.png)
 
 ## 해결 방법
 
