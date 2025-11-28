@@ -10,7 +10,7 @@ toc: true
 comments: true
 mermaid: true
 ---
-이전에 [GitHub 레포지토리를 찾을 수 없는 오류 해결방법 (HTTPS, SSH 관련 오류)](/blog/posts/github-ssh/)에서 SSH 관련 문제를 다뤘다면, 이번에는 GitHub Organizations의 접근 정책으로 인한 문제를 다루어 보려고 한다.
+이전에 [GitHub 레포지토리를 찾을 수 없는 오류 해결방법 (HTTPS, SSH 관련 오류)](/blog/posts/github-ssh/)에서 SSH 관련 문제를 다뤘다면, 이번에는 GitHub Organizations의 접근 정책으로 인한 문제를 다룬다.
 
 JetBrains Rider에서 Git 작업을 하던 중 Repository Not Found 오류가 발생했다.
 
