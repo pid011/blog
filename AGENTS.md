@@ -54,9 +54,9 @@ This document outlines the standards and workflows for AI agents creating conten
 ## 4. Commit messages
 
 - Purpose: Commit messages should clearly describe the change and make it easy to trace history. Do not use bracketed tags like [Post], [Blog], or [Obsidian]. Prefer a simple, consistent message style.
-- Preferred format: Use a single capitalized verb at the start followed by a short subject. Examples of preferred types are: Add, Update, Fix, Use, Remove, Revert, Docs, Chore.
-  - Format examples: "Add: Add new GitHub SSH post", "Update: Update image paths", "Fix: Fix lnk2019 UE4 error", "Use: Use Google Analytics configuration"
-- Language: You may write commit messages in either English or Korean. For blog content, Korean is acceptable, but commit messages should still follow the simple type + subject format and avoid bracket tags.
+- Preferred format: Use a single capitalized verb at the start followed by a short subject. Do not add a separate colon after the verb; write the message as a short sentence. Examples of preferred verbs are: Add, Update, Fix, Use, Remove, Revert, Docs, Chore.
+  - Format examples: "Add new GitHub SSH post", "Update image paths", "Fix lnk2019 UE4 error", "Use Google Analytics configuration"
+- Language: You may write commit messages in either English or Korean. For blog content, Korean is acceptable. Commit messages should follow the simple verb + subject format (no colon or bracket tags). Avoid bracket tags like [Post], [Blog], or [Obsidian].
 - Message content and length:
   - Keep the subject short, ideally around 50 characters or fewer. If more detail is required, include the details in the message body.
   - Leave a blank line after the subject, and then write a longer description with background, the impact of the changes, and any references (issue/PR numbers, links).
