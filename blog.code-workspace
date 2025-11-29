@@ -6,7 +6,7 @@
     },
     {
       "name": "Post Assets",
-      "path": "./assets/img/posts"
+      "path": "./assets/blobs"
     }
   ],
   "settings": {}
