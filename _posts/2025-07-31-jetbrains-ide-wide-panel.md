@@ -4,7 +4,6 @@ categories:
   - IDE
 tags:
   - IDE
-description: 
 toc: true
 comments: true
 mermaid: true

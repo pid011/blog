@@ -5,7 +5,6 @@ categories:
 tags:
   - Git
   - Organization
-description: GitHub Organizations에서 서드파티 애플리케이션 접근 제한으로 인한 Repository Not Found 오류 해결법
 toc: true
 comments: true
 mermaid: true

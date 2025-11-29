@@ -5,7 +5,6 @@ categories:
 tags:
   - Git
   - GitHub
-description: 
 toc: true
 comments: true
 mermaid: true

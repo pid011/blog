@@ -7,7 +7,6 @@ tags:
   - CLI
   - Windows
   - node-pty
-description: Gemini CLI를 Windows 11에서 실행할 때 발생하는 @lydell/node-pty 패키지 오류를 해결하는 방법에 대한 포스트입니다.
 toc: true
 comments: true
 ---
