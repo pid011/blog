@@ -7,6 +7,7 @@ This document outlines the standards and workflows for AI agents creating conten
 ### Writing Style
 
 - **Tone**: Professional, informative, and concise. Avoid overly casual or overly stiff language.
+- **No Emojis**: Do not use emojis in the content.
 - **Ending**: Use the Korean plain form ("~했다", "~이다", "~한다") for posts and content where applicable. Do not use polite or honorific forms ("~했습니다", "~해요").
 - **Structure**:
   - **Introduction**: Briefly state the problem or topic.
