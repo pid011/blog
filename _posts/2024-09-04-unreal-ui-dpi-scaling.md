@@ -1,7 +1,7 @@
 ---
 title: 언리얼에서 UI 텍스처 해상도에 맞게 DPI 설정하기
 categories: ["Unreal Engine"]
-tags: ["UnrealEngine", "Game"]
+tags: ["Unreal Engine", "Game"]
 toc: true
 comments: true
 ---

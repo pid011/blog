@@ -4,6 +4,7 @@ categories:
   - GitHub
 tags:
   - Git
+  - GitHub
   - Organization
 toc: true
 comments: true
